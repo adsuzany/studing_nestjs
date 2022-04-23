@@ -24,6 +24,9 @@
 
 ## Description
 
+✨Hello, this is my first project studing nestjs. It's about a simple CRUD using typeorm with mysql. 
+
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
